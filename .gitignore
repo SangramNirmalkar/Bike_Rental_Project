@@ -6,4 +6,7 @@ __pycache__/
 .DS_Store
 *.csv
 *.h5
-*.parquet
+*.parquet*.docx
+__pycache__/
+*.pyc
+.DS_Store
