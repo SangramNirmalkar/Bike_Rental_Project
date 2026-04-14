@@ -1,12 +1,18 @@
+# Virtual environments
 venv/
 env/
 ENV/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# OS files
 .DS_Store
-*.csv
+
+# Model / data files
 *.h5
-*.parquet*.docx
-__pycache__/
-*.pyc
-.DS_Store
+*.parquet
+
+# Documents
+*.docx
